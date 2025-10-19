@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá mundo! Prazer, sou Thaynara! 👩🏾‍💻
+
+Sou **economista** e **analista de dados**, apaixonada por transformar teoria em soluções práticas. 
+
+Acredito que a economia precisa de código e a tecnologia precisa de contexto. Juntas, essas áreas geram insights reais e transformam teoria em soluções práticas e escaláveis. 
+
+Trabalho com análise de dados econômicos, inteligência de mercado e relatórios financeiros, e aqui documento meus projetos, experimentos, resultados e aprendizados, tudo o que aprendo na jornada com a programação.
 
 <!--
 **Thay-Silva-01/Thay-Silva-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
