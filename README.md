@@ -57,3 +57,12 @@ Trabalho com análise de dados econômicos, inteligência de mercado e relatóri
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thay-silva-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<!--
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thay-Silva-01/Thay-Silva-01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thay-Silva-01/Thay-Silva-01/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thay-Silva-01/Thay-Silva-01/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+-->
