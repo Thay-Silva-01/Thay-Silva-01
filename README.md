@@ -1,8 +1,3 @@
-<!-- Adicionar o gif persoalizado
-<div align="right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
--->
 ###
 ## Olá mundo! Prazer, sou Thaynara! 👩🏾‍💻
 
@@ -26,7 +21,6 @@ Trabalho com análise de dados econômicos, inteligência de mercado e relatóri
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
   <img width="12" />
- <!-- Em andamento
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -39,6 +33,7 @@ Trabalho com análise de dados econômicos, inteligência de mercado e relatóri
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+<!-- Em andamento
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
@@ -55,6 +50,10 @@ Trabalho com análise de dados econômicos, inteligência de mercado e relatóri
 <div align="rigth">
   <img src="https://github-readme-stats.vercel.app/api?username=thay-silva-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thay-silva-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+<br/>
+<div align="center">
+  <img height="3000" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnByeHBkM2U2b3FwMWw2YWtubHpoeHMyMWN1a2ExN3ltNTMyNXhzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gIxts9iFf0SLDNPVtL/giphy.gif" />
 </div>
 
 <!--
