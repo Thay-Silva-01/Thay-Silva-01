@@ -1,13 +1,17 @@
-###
-## Olá mundo! Prazer, sou Thaynara! 👩🏾‍💻
+# 👩🏾‍💻 Olá mundo! Prazer, sou Thaynara!
 
+Sou **economista** e **analista de dados**, apaixonada por transformar teoria em soluções práticas.
 
-Sou **economista** e **analista de dados**, apaixonada por transformar teoria em soluções práticas. 
+Acredito que a economia precisa de código e a tecnologia precisa de contexto.  
+Juntas, essas áreas geram insights reais e transformam teoria em soluções práticas e escaláveis.
 
-Acredito que a economia precisa de código e a tecnologia precisa de contexto. Juntas,  essas áreas geram insights reais e transformam teoria em soluções práticas e escaláveis. 
-
-Trabalho com análise de dados econômicos, inteligência de mercado e relatórios financeiros, e aqui documento meus projetos, experimentos, resultados e aprendizados, tudo o que aprendo na jornada com a programação.
-
+Trabalho com **análise de dados econômicos**, **inteligência de mercado** e **relatórios financeiros**.  
+Aqui documento meus projetos, experimentos, resultados e aprendizados — tudo o que descubro na jornada com a programação.
+<br/>
+<div align="center">
+  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnByeHBkM2U2b3FwMWw2YWtubHpoeHMyMWN1a2ExN3ltNTMyNXhzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gIxts9iFf0SLDNPVtL/giphy.gif" alt="GIF animado" />
+</div>
+<br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/thaynara-ines-da-silva/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -52,9 +56,7 @@ Trabalho com análise de dados econômicos, inteligência de mercado e relatóri
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thay-silva-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <br/>
-<div align="center">
-  <img height="3000" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnByeHBkM2U2b3FwMWw2YWtubHpoeHMyMWN1a2ExN3ltNTMyNXhzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gIxts9iFf0SLDNPVtL/giphy.gif" />
-</div>
+
 
 <!--
 <div align="center">
